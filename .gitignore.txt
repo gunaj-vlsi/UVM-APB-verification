@@ -1,0 +1,15 @@
+# QuestaSim generated files
+work/
+transcript
+*.wlf
+*.log
+*.bak
+*.jou
+*.pb
+*.vstf
+
+# Vivado generated files
+.sim/
+.cache/
+.hw/
+.xpr~
