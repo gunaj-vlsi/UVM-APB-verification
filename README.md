@@ -1,12 +1,12 @@
 # UVM-Based Functional Verification of AMBA APB Protocol
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements a **UVM-based functional verification environment** for verifying an **AMBA APB (Advanced Peripheral Bus) protocol** slave design.
 
 The verification environment is developed using **SystemVerilog and UVM** and simulated using **QuestaSim**.
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to verify the functionality and protocol behavior of an APB slave by generating and monitoring different APB transactions.
 
@@ -19,7 +19,7 @@ The testbench verifies:
 - Transaction-level checking
 - Expected vs actual data comparison
 
-## 🏗️ UVM Verification Architecture
+## UVM Verification Architecture
 
 The verification environment consists of the following UVM components:
 
